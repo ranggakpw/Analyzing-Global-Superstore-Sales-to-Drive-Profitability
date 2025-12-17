@@ -1,0 +1,7 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,State,City,Postal_Code,Region,Product_ID,Category,Sub-Category,Product_Name,Sales,Quantity,Discount,Profit,Shipping_Cost
+1,CA-2016-152156,2016-11-08,2016-11-11,Second Class,CG-12520,Claire Gute,Consumer,United States,Kentucky,Louisville,40242,South,FUR-BO-10001747,Furniture,Bookcases,Furnditure Bookcase,261.96,2,0.0,41.9132,35.0
+2,CA-2016-152156,2016-11-08,2016-11-11,Second Class,CG-12520,Claire Gute,Consumer,United States,Kentucky,Louisville,40242,South,FUR-CH-10000454,Furniture,Chairs,Furnditure Chairs,731.94,3,0.0,219.582,45.0
+3,CA-2016-138688,2016-06-12,2016-06-16,Second Class,DV-13045,Darren Van Huff,Corporate,USA,California,Los Angeles,90033,West,OFF-LA-10000240,Office Supplies,Labels,Easy-Tag Label,14.62,2,0.0,6.8714,2.5
+4,US-2015-108966,2015-10-11,2015-10-18,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Florida,Orlando,32819,South,FUR-TA-10000577,Furniture,Tables,Furnditure Tables,957.5775,5,0.45,-383.031,75.5
+5,SO-2014-1216688,2014-05-13,2014-05-15,First Class,BH-11710,Brosina Hoffman,Consumer,USA,California,Los Angeles,90032,West,OFF-ST-10000760,Office Supplies,Storage,"3-Drawer Vertical File",,3,0.2,,15.0
+6,CA-2017-114212,2017-01-21,2017-01-23,First Class,TC-20980,Tina Campbell,Corporate,United States,Delaware,Wilmington,19801,East,OFF-AP-10002812,Office Supplies,Appliances,Appliances Phone,907.152,9,0.8,-1200.0,99.0
